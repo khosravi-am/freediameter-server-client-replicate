@@ -1,0 +1,6 @@
+[submodule "third-party/submodule"]
+	path = third-party/submodule
+	url = git@git.yaftar.ir:ts/submodule-template.git
+[submodule "freediameter"]
+	path = freediameter
+	url = https://ganj.yaftyar.ir/khosravi_ma/freediameter.git

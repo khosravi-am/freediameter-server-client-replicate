@@ -1,0 +1,22 @@
+# CHANGELOG
+
+## 0.0.2 - [1400/11/20]
+
+### added
+
+* submodule to project
+
+### modified
+
+* README.md file
+
+### fixed
+
+* cmake_cpp flags
+
+## 0.0.1 - [1400/10/08]
+
+### added
+
+* structure of project
+* hello world sample
